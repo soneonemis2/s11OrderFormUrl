@@ -1,17 +1,17 @@
 [
   {
     "platform": "ios",
-    "urlPhpBase": "http://127.0.0.1:80/s11OrderFormBackend/",
+    "urlPhpBase": "http://192.168.0.203:80/s11OrderFormBackend/",
     "urlNodeBase": "https://www.soneonefbgroup.com/"
   },
   {
     "platform": "huawei",
-    "urlPhpBase": "http://127.0.0.1:80/s11OrderFormBackend/",
+    "urlPhpBase": "http://192.168.0.203:80/s11OrderFormBackend/",
     "urlNodeBase": "https://www.soneonefbgroup.com/"
   },
   {
     "platform": "android",
-    "urlPhpBase": "http://127.0.0.1:80/s11OrderFormBackend/",
+    "urlPhpBase": "http://192.168.0.203:80/s11OrderFormBackend/",
     "urlNodeBase": "https://www.soneonefbgroup.com/"
   }
 ]
